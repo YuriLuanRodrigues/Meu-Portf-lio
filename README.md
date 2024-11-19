@@ -1,1 +1,1 @@
-Fazendo com que a imagem do portifolio seja exibida .
+Construindo meu portifólio do zero.
